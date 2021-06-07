@@ -98,7 +98,7 @@
                         <li>
                             <span class="fa-li"><i class="fas fa-check"></i></span>
                             Microsoft Office
-                        </li>
+                        </li> 
                     </ul>
                 </div>
             </section>
